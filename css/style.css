@@ -1,0 +1,54 @@
+/** Meta data **/
+body {
+   background-color: white;
+}
+
+/** Header and Navbar Section **/
+
+.navbar-brand {
+   height: 90px;
+   font-size: 55px;
+}
+
+.nav>li>a {
+   font-size: 20px;
+}
+
+.navbar-inverse {
+   background-color: gray;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+   color: black;
+}
+
+.navbar-inverse .navbar-brand {
+   color: black;
+}
+
+/** Text Section **/
+h1 {
+   font-family: 'Arial', Courier, monospace;
+   font-weight: 700;
+   padding-top: 2%;
+   padding-bottom: 3%;
+}
+
+.con {
+   background-color: gray;
+}
+
+#title {
+   text-align: center;
+   font-family: 'Arial', Courier, monospace;
+   font-size: x-large;
+   font-weight: 700;
+   padding-top: 2%;
+}
+
+.text {
+   text-align: left;
+   font-family: 'Arial', Courier, monospace;
+   font-size: large;
+   font-weight: bolder;
+}
